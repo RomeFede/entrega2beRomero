@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Pizza Muzzarella",
+    "description": "Muzarella salsa y oregano",
+    "price": 2.55,
+    "thumbnail": "image",
+    "code": "P1",
+    "stock": 250
+  },
+  {
+    "id": 2,
+    "title": "Pizza Cuatroquesos",
+    "description": "Cubierta con 4 deliciosos quesos",
+    "price": 7000,
+    "thumbnail": "image",
+    "code": "P2",
+    "stock": 130
+  },
+  {
+    "id": 3,
+    "title": "Pizza Fugazzeta",
+    "description": "Con oregano y cebolla",
+    "price": 6500,
+    "thumbnail": "image",
+    "code": "P3",
+    "stock": 150
+  }
+]
